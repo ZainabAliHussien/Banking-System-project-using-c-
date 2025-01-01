@@ -1,0 +1,145 @@
+﻿  Bank by using OOP.cpp
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsString.h(38,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsString.h(43,33): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsString.h(55,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsString.h(192,33): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsString.h(323,34): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsString.h(367,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsDate.h(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsUser.h(385,14): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  C:\Users\DELL 7720\Desktop\Bank by using OOP\clsUser.h(41,11):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsBankClient.h(387,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  C:\Users\DELL 7720\Desktop\Bank by using OOP\clsBankClient.h(158,12):
+  see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsBankClient.h(354,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsAddNewClientScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsAddNewClientScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsAddNewClientScreen.h(45,16): warning C4129: '_': unrecognized character escape sequence
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsAddNewClientScreen.h(30,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsDeleteClientScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsDeleteClientScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsDeleteClientScreen.h(24,17): warning C4129: '_': unrecognized character escape sequence
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsUpdateClientScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsUpdateClientScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsUpdateClientScreen.h(43,18): warning C4129: '_': unrecognized character escape sequence
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsUpdateClientScreen.h(29,69): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsFindClientScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsFindClientScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsFindClientScreen.h(23,17): warning C4129: '_': unrecognized character escape sequence
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsDepositScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsDepositScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsDepositScreen.h(53,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsWithdrawScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsWithdrawScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsWithdrawScreen.h(53,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsTotalBalancesScreen.h(58,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsTransferScreen.h(32,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsTransferScreen.h(36,57): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsAddNewUserScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsAddNewUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsDeleteUserScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsDeleteUserScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsUpdateUserScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsUpdateUserScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsFindUserScreen.h(3,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsFindUserScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsCurrencyUpdateRateScreen.h(17,54): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsCurrencyCalculatorScreen.h(27,47): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsInputValidate.h(53,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank%20by%20using%20OOP.cpp')
+  C:\Users\DELL 7720\Desktop\Bank by using OOP\clsInputValidate.h(53,10):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\DELL 7720\Desktop\Bank by using OOP\clsAddNewClientScreen.h(30,51):
+  	see reference to function template instantiation 'int clsInputValidate::ReadNumber<float>(std::string)' being compiled
+  
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsBankClient.h(317,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsBankClient.h(374,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\DELL 7720\Desktop\Bank by using OOP\clsUser.h(306,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank by using OOP.vcxproj -> C:\Users\DELL 7720\Desktop\Bank by using OOP\x64\Debug\Bank by using OOP.exe
